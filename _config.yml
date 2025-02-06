@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_saranunt.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "computer engineering student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "KMUTT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "parksaranunt@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
