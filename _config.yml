@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bhagya Saranunt"
-  pronouns         : "Refrigerator"  
+  pronouns         : # example: "she/her" 
   bio              : "computer engineering student"
   location         : "Earth"
   employer         : "KMUTT"
